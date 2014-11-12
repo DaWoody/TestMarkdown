@@ -39,3 +39,11 @@ x+2 = 5
 
 and this will be a `<html><h1>SOME</h1></html>`code block...
 
+###Lets test some more
+***
+```
+Code block 2...
+img below
+```
+
+![SOME alt text](http://www.citifmonline.com/wp-content/uploads/2014/03/Ericsson-Jobs-in-Ghana.png)
